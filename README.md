@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+内容分享管理系统管理后台，使用vue-element框架，vue-cli搭建。
